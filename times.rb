@@ -3,10 +3,14 @@ def using_times
 		7.times do 
 	puts "Wingardium Leviosa" 
 	counter = counter + 1 
-	puts "we practiced Wingardium Leviosa ${counter} times!"
-#	end 
-#end
+  puts "we practiced Wingardium Leviosa ${counter} times!"
+	end 
 
 
-using times 
+
+
+end
+
+
+using_times 
 
