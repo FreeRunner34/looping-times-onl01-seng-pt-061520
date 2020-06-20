@@ -1,7 +1,12 @@
 def using_times
-	#your code here
+	counter = 0 
+		7.times do 
+	puts "Wingardium Leviosa" 
+	counter = counter + 1 
+	puts "we practiced Wingardium Leviosa ${counter} times!"
+	end 
 end
 
 
-
+using times 
 
