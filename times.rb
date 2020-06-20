@@ -4,8 +4,8 @@ def using_times
 	puts "Wingardium Leviosa" 
 	counter = counter + 1 
 	puts "we practiced Wingardium Leviosa ${counter} times!"
-	end 
-end
+#	end 
+#end
 
 
 using times 
