@@ -1,5 +1,6 @@
 counter = 0 
-def using_times(counter)
+def using_times
+	counter = 0 
 		7.times do 
 	puts "Wingardium Leviosa" 
 	counter = counter + 1 
